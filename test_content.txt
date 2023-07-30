@@ -1,0 +1,5 @@
+Hi This is John Woo
+I will test a merge fucntion in Git Local repository.
+
+
+
